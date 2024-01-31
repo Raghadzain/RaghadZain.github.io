@@ -26,6 +26,10 @@ I am a computer science student with a deep interest in data science and artific
 | Assignment 3 | [View Assignment](https://drive.google.com/file/d/1J8Q3ajjHbOb9EqFu0m6chsH5dvZ98mkn/view?usp=drive_link) |
 | Assignment 2 | [View Assignment](https://drive.google.com/file/d/1j3ZKq50Dvd7wHSu1FPMvtdg3Y) |
 | Assignment 1 | [View Assignment](https://drive.google.com/file/d/1H84evvFw7Fshnx6oDCI6iXXlMNaF9jRf/view?usp=drive_link) |
+### Design Thinking Prototype:
+
+[View Design Thinking Prototype](https://drive.google.com/file/d/1IJ0abDDm3ZBOueNyzd2Z_V6Wih6rSkNH/view?usp=sharing)
+
 ### Reflections for NALI visit:
 
 Engaging in the NALI 2023 program at UTM University was a highly valuable experience. This science and technology-focused initiative provided students with real-world involvement, effectively connecting theoretical concepts with hands-on applications. The program's activities had a positive influence on learning, offering opportunities to interact with industry experts, improving understanding of course material, fostering curiosity in advanced technologies, and igniting a passion for ongoing exploration. The significance of attending NALI 2023 and participating in interview sessions was underscored, underscoring the program's accomplishment in making the educational journey meaningful and motivational.
