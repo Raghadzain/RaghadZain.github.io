@@ -41,6 +41,9 @@ Reflecting on the "Overview of ICT Jobs in Clarity Techworks" industrial talk, p
 ### Reflection on Industrial Visit to UTM Digital:
 
 The industrial visit to UTM Digital left a lasting impact on participants. It offered benefits by exposing students to real-world scenarios and practical applications of digital media concepts, bridging the gap between theory and practice. The visit influenced course outcomes by contextualizing theoretical concepts within the agency's operations, enriching the learning experience and fostering a more comprehensive understanding. The visit also provided impactful knowledge, sparked excitement for the digital domain, and significantly enhanced the understanding of the course material through tangible references and real-world applications.
+### PC Assemble:
+
+Taking part in the PC assembly lab session provided me with a hands-on learning experience that significantly enhanced my understanding of computer hardware. Practical exercises like soldering parts together and troubleshooting assembly-related problems reinforced my theoretical knowledge and increased my self-assurance and hardware handling skills. The PC assembly quiz was an excellent assessment tool after the lab, gauging my knowledge of hardware assembly, compatibility, and troubleshooting skills. This exam improved my general understanding of computer technology by underlining the value of paying close attention to detail and provoking more in-depth thought on the real-world applications of computer construction.
 
 ### Qistina Amzan's Industrial Talk on System Development at Credence Company reflection:
 
